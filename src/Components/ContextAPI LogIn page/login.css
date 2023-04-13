@@ -1,0 +1,29 @@
+.login{
+    width: 20rem;
+    box-shadow:0 0 10px black ;
+    text-align: center;
+    height: 20rem;
+    padding: 5rem;
+    margin-top: 2rem;
+    margin-left: 30rem;
+    background-color: black;
+    
+}
+.login input{
+    height: 2rem;
+    width: 18rem;
+    margin-top: .5rem;
+    background-color: aquamarine;
+    padding: .5rem;
+    
+}
+.login button{
+    height: 3rem;
+    width: 8rem;
+    margin-top: .5rem;
+    background-color: aquamarine;
+    padding: .5rem;
+}
+.routing h2{
+    color: red;
+}

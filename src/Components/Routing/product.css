@@ -1,0 +1,25 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin: 2rem;
+}
+
+.card{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    box-shadow: 0 0 0.1rem;
+    margin: 2rem;
+    
+}
+.card img{
+    height: 10rem;
+    width: 10rem;
+}
+.pageNotFound h2{
+    color: red;
+}

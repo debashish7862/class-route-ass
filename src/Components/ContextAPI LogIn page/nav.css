@@ -1,0 +1,26 @@
+.nav{
+    background-color: black;
+    color: antiquewhite;
+    padding: 2rem;
+    display: flex;
+
+}
+h2{
+    margin: 0rem;
+}
+#title{
+width: 40%;
+}
+#menue{
+    width: 69%;
+}
+#menue a{
+    color: white;
+    margin-right: 8rem;
+    text-decoration: none;
+}
+#menue button{
+    background-color: bisque;
+    
+
+}
